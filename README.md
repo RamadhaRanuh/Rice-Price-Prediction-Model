@@ -16,7 +16,6 @@ This project focuses on predicting rice prices using ARIMA and SARIMAX forecasti
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
